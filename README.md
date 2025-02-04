@@ -1,0 +1,2 @@
+# Stockism
+Stock Sentiment Analyzer

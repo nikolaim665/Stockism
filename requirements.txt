@@ -1,0 +1,17 @@
+fastapi 
+uvicorn 
+tweepy
+praw
+requests
+pandas
+numpy
+transformers
+torch
+nltk
+spacy
+scikit-learn
+matplotlib
+plotly
+streamlit
+sqlalchemy
+psycopg2
